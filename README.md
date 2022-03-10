@@ -22,7 +22,13 @@ jest
 
 npm
 
+
 ## Preview
+
+![Screenshot](screenshot.jpg)
+
+
+## Demo
 
 ![Screenshot](demo.gif)
 
