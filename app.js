@@ -9,7 +9,7 @@ const emailValidator = require('email-validator');
 const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
-const render = require("./lib/htmlRenderer");
+const render = require("./lib/htmlRender");
 const Employee = require("./lib/Employee");
 
 let team = [];

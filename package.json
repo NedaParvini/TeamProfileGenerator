@@ -1,0 +1,30 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NedaParvini/TeamProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NedaParvini/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/NedaParvini/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer":"^8.2.1",
+    "email-validator":"^2.0.4"
+  },
+  "devDependencies": {
+    "jest":"^27.5.1"
+  }
+}
